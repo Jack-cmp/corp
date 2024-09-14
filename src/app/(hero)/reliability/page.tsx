@@ -11,7 +11,7 @@ export default function Page() {
   return (
     <div>
       
-      <Hero imgurl={reliability} altTxt="reliability" content="reliability"/>
+      <Hero imgurl={reliability} altTxt="reliability" content="欲穷千里目，更上一层楼"/>
     </div>
   )
 }

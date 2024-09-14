@@ -13,7 +13,7 @@ export default function Page() {
   return (
     <div>
       
-      <Hero imgurl={scale} altTxt="performanscalece" content="scale"/>
+      <Hero imgurl={scale} altTxt="performanscalece" content="人面不知何处去，桃花依旧笑春风"/>
     </div>
   )
 }

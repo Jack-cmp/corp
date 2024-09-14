@@ -11,7 +11,7 @@ export default function Page() {
   return (
     <div>
       
-      <Hero imgurl={performance} altTxt="performance" content="performance"/>
+      <Hero imgurl={performance} altTxt="performance" content="人生若只如初见，何事秋风悲画扇"/>
     </div>
   ) 
 }
